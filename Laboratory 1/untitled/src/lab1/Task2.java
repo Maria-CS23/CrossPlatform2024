@@ -79,6 +79,6 @@ class Check {
 
     @Override
     public String toString() {
-        return "Check [x = " + x + ", y = " + y + "]";
+        return "[x = " + x + ", y = " + y + "]";
     }
 }
