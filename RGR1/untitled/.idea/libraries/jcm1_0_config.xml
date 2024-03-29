@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jcm1.0-config">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jcm1.0-config.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
