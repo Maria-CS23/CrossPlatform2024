@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DataSheet>
+    <data date="05/05/2024">
+        <x>0.1</x>
+        <y>0.3</y>
+    </data>
+    <data date="05/05/2024">
+        <x>-0.2</x>
+        <y>0.01</y>
+    </data>
+    <data date="05/05/2024">
+        <x>0.6</x>
+        <y>1.1</y>
+    </data>
+    <data date="05/05/2024">
+        <x>0.7</x>
+        <y>-0.1</y>
+    </data>
+</DataSheet>
