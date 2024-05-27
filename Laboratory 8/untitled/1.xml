@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="Windows-1251" standalone="no"?>
+<RegisteredConferees>
+  <Conferee>
+    <name>Антон</name>
+    <familyName>Антонов</familyName>
+    <placeOfWork>ХНУ імені В.Н. Каразіна</placeOfWork>
+    <reportTitle>Доповідь</reportTitle>
+    <email>anton@gmail.com</email>
+  </Conferee>
+  <Conferee>
+    <name>Денис</name>
+    <familyName>Денисов</familyName>
+    <placeOfWork>ХНУ імені В.Н. Каразіна</placeOfWork>
+    <reportTitle>Назва</reportTitle>
+    <email>denis@gmail.com</email>
+  </Conferee>
+  <Conferee>
+    <name>Максим</name>
+    <familyName>Максимов</familyName>
+    <placeOfWork>ХНУ імені В.Н. Каразіна</placeOfWork>
+    <reportTitle>Назва</reportTitle>
+    <email>maxim@gmail.com</email>
+  </Conferee>
+</RegisteredConferees>
